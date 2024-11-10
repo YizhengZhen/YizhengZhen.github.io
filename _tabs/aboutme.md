@@ -16,7 +16,6 @@ I am interested in the following topics:
 * Energy and information cost in (quantum) information processing;
 * Dicke model and its realization in microwave superconducting circuit environment.
 
-
 See [**HERE**]({% link _posts/2024-02-27-cv.md%})
 for my short bio and brief cv.
 
