@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Yi-Zheng Zhen's homepage # the main title
+title: Yi-Zheng Zhen # the main title
 
-# tagline:  # it will display as the sub-title
+tagline: 甄一政 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Academic homepage
