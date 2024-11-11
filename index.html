@@ -3,8 +3,4 @@ layout: page
 # index page
 ---
 
-{% capture index %}
-{% include _posts/2024-11-11-aboutme.md %}
-{% endcapture %}
-
-{{ index | markdownify }}
+{{ _posts/2024-11-11-aboutme.md | markdownify }}
