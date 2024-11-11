@@ -7,11 +7,12 @@ title: "Abour Me"
 
 Welcome!
 
-I am a theoretical researcher on quantum foundation and quantum information.
+I am currently a Research Associate in University of Science and Technology of China.
 
-I am now working in University of Science and Technology of China as Research Associate.
+My research field lies in the fields of quantum foundation, quantum information, and information thermodynamics.
 
-I am interested in the following topics:
+I am particularly interested in the following topics:
+
 * Nonlocality and its use in quantum information science;
 * Energy and information cost in (quantum) information processing;
 * Dicke model and its realization in microwave superconducting circuit environment.
