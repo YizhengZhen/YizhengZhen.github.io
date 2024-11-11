@@ -1,11 +1,10 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 1
-title: "About me"
+icon: fas fa-meh
+order: 0
+title: "Home"
 ---
 
-Welcome!
+Welcome to my homepage!
 
 I am currently a Research Associate in University of Science and Technology of China.
 
@@ -17,14 +16,18 @@ I am particularly interested in the following topics:
 * Energy and information cost in (quantum) information processing;
 * Dicke model and its realization in microwave superconducting circuit environment.
 
+-----
+
 See [**HERE**]({% link _posts/2024-02-27-cv.md%})
-for my short bio and brief cv.
+for my cv.
 
 See [**HERE**]({% link _posts/2024-02-27-publications.md%})
-for my full publications.
+for my publications.
 
-See HERE for my 
-[**arXiv**](https://arxiv.org/a/zhen_y_1.html), 
-[**ORCID**](https://orcid.org/0000-0002-7125-6922), and 
-[**Google Scholar**](https://scholar.google.com/citations?user=7kiloFYAAAAJ)
-profiles.
+See my profiles in [**arXiv**](https://arxiv.org/a/zhen_y_1.html), [**ORCID**](https://orcid.org/0000-0002-7125-6922), and [**Google Scholar**](https://scholar.google.com/citations?user=7kiloFYAAAAJ).
+
+-----
+
+## Updates
+
+* Homepage almost finished.
