@@ -46,7 +46,6 @@ social:
   # todo: ?
 
 google_site_verification: # fill in to your verification string
-# todo: ?
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -57,7 +56,6 @@ google_analytics:
 
 goatcounter:
   id: # fill in your Goatcounter ID
-# todo: ?
 
 # Prefer color scheme setting.
 #
