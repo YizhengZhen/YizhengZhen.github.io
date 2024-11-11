@@ -130,7 +130,7 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
-
+paginate_path: "/blog/page:num/"
 # The base URL of your site
 baseurl: ""
 
@@ -155,7 +155,7 @@ collections:
 defaults:
   # blog home
   - scope:
-      path: "blogs"
+      path: "blog"
     values:
       articles:
         excerpt_type: html
