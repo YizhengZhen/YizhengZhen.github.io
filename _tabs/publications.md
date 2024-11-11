@@ -5,7 +5,6 @@ order: 2
 title: "Publications"
 ---
 
-
 1. Qing Zhou, <u>Yi-Zheng Zhen</u>, Xin-Yu Xu, Shuai Zhao, Wen-Li Yang, Shao-Ming Fei, Li Li, Nai-Le Liu, and Kai Chen, Local unitary equivalence of arbitrary-dimensional multipartite quantum states, [**Physical Review A** 109, 022427 (2024)](https://link.aps.org/doi/10.1103/PhysRevA.109.022427).
 
 1. Xin-Yu Xu, <u>Yi-Zheng Zhen</u>, Qing Zhou, Shu-Ming Hu, Jun-Hao Wei, Nuo-Ya Yang, Li Li, Nai-Le Liu, and Kai Chen, Measurement-device-independent verification of quantum states, [**Physical Review A** 109, 052607 (2024)](https://link.aps.org/doi/10.1103/PhysRevA.109.052607).
