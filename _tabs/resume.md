@@ -57,7 +57,7 @@ Quantum foundation and quantum information, information thermodynamics.
 
 ### Publications
 
-See [this link](/publications.html).
+See [this link](/publications).
 
 <!-- 
 Talks
