@@ -131,6 +131,7 @@ pwa:
 
 paginate: 10
 paginate_path: "/blog/page:num/"
+
 # The base URL of your site
 baseurl: ""
 
@@ -156,6 +157,12 @@ defaults:
   # blog home
   - scope:
       path: "blog"
+    values:
+      articles:
+        excerpt_type: html
+  # posts home
+  - scope:
+      path: "posts"
     values:
       articles:
         excerpt_type: html
