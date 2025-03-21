@@ -22,7 +22,7 @@
             </span>
 
           {% elsif forloop.last %}
-            {% if page.collection == 'tabs' or item == 'blogs' %}
+            {% if page.collection == 'tabs' or item == 'posts' %}
               <span>{{ site.data.locales[include.lang].tabs[item] | default: page.title }}</span>
             {% else %}
               <span>{{ page.title }}</span>
