@@ -17,9 +17,8 @@ timezone: Asia/Shanghai
 title: Yi-Zheng Zhen # the main title
 
 tagline: 甄一政 </br>
-         Ph.D in Physics </br>
-         Quantum information theory </br>
-         Research Associate at USTC
+  Ph.D in Physics </br>
+  Associate Researcher in Quantum information theory
 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
@@ -166,7 +165,7 @@ defaults:
     values:
       articles:
         excerpt_type: html
-  
+
   - scope:
       path: "" # An empty string here means all files in the project
       type: posts
