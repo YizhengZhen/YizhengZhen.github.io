@@ -5,6 +5,12 @@ order: 2
 title: "Publications"
 ---
 
+1. B.-W. Lu, C.-W. Yang, R.-Q. Wang, B.-F. Gao, <u>Y.-Z. Zhen</u>, Z.-G. Wang, J.-K. Shi, Z.-Q. Ren, T. A. Hahn, E. Y.-Z. Tan, X.-P. Xie, M.-Y. Zheng, X. Jiang, J. Zhang, F. Xu, Q. Zhang, X.-H. Bao, and J.-W. Pan, Device-independent quantum key distribution over 100 km with single atoms, [**Science** 391, 592 (2026)](https://www.science.org/doi/10.1126/science.adj6064).
+
+1. W.-Z. Liu, Y.-B. Zhou, J.-P. Chen, B. Wang, A. Teng, X.-W. Han, G.-C. Liu, Z.-J. Zhang, Y. Yang, F.-G. Liu, C.-H. Xue, B.-W. Yang, J. Yang, C. Zeng, D.-R. Pan, M.-Y. Zheng, X. Zhang, S. Cao, <u>Y.-Z. Zhen</u>, Y. Xiao, H. Li, L. You, X. Ma, Q. Zhao, F. Xu, Y. Wang, Y. Wan, Q. Zhang, and J.-W. Pan, Long-lived Remote Ion-ion Entanglement for Scalable Quantum Repeaters, [**Nature** 652, 51–57 (2026)](https://doi.org/10.1038/s41586-026-04714-2).
+
+1. Yingqiu Mao, Han-Yu Ren, Zi-Yi Liu, <u>Yi-Zheng Zhen</u>, Tao Rong, Tao Jiang, Zhuo Chen, Zhe-Heng Yuan, Wen-Hua Qin, Xiaoran Zhang, Xiaobing Liu, Ming Gong, Kae Nemoto, William J. Munro, Johannes Majer, Strong Coupling in a Three-Mode Superconducting-Spin Hybrid Quantum System, [**arXiv** 2512.13129 (2025)](https://arxiv.org/abs/2512.13129).
+
 1. Qing Zhou, <u>Yi-Zheng Zhen</u>, Xin-Yu Xu, Shuai Zhao, Wen-Li Yang, Shao-Ming Fei, Li Li, Nai-Le Liu, and Kai Chen, Local unitary equivalence of arbitrary-dimensional multipartite quantum states, [**Physical Review A** 109, 022427 (2024)](https://link.aps.org/doi/10.1103/PhysRevA.109.022427).
 
 1. Xin-Yu Xu, <u>Yi-Zheng Zhen</u>, Qing Zhou, Shu-Ming Hu, Jun-Hao Wei, Nuo-Ya Yang, Li Li, Nai-Le Liu, and Kai Chen, Measurement-device-independent verification of quantum states, [**Physical Review A** 109, 052607 (2024)](https://link.aps.org/doi/10.1103/PhysRevA.109.052607).

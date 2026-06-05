@@ -15,7 +15,7 @@ Email: zhenyizheng # ustc.edu.cn (# -> @)
 
 ### Summary
 
-*TBA*
+Yi-Zheng Zhen (甄一政) is a Research Associate at the University of Science and Technology of China (USTC). He earned his Ph.D. from USTC, and subsequently conducted postdoctoral research at the Southern University of Science and Technology and USTC. His research is centered on quantum information theory, with a focus on: the characterization and application of quantum correlations, information-theoretic security for quantum cryptography, and the thermodynamic cost of quantum information processing. His work aims to uncover the ultimate physical-resource constraints that govern quantum technologies.
 
 --------------------------------------------
 
@@ -59,7 +59,8 @@ Quantum foundation and quantum information, information thermodynamics.
 
 See [this link](/publications).
 
-<!-- 
-Talks
-------------------------------------------- 
--->
+### Talks & Presentations
+
+*TBD — to be added*
+
+--------------------------------------------

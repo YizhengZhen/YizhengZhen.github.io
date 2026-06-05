@@ -13,6 +13,19 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
+- type: arxiv
+  icon: "fas fa-robot"
+  url: "https://arxiv.org/a/zhen_y_1.html"
+
+- type: google-scholar
+  icon: "fab fa-google"
+  url: "https://scholar.google.com/citations?user=7kiloFYAAAAJ"
+
+- type: orcid
+  icon: "fab fa-orcid"
+  url: "https://orcid.org/0000-0002-7125-6922"
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
