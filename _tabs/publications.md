@@ -1,8 +1,9 @@
 ---
-# the default layout is 'page'
-icon: fas fa-file-alt
-order: 2
+layout: page
+# icon intentionally omitted — accessed via /publications link from Works page
+order: 99
 title: "Publications"
+permalink: /publications/
 ---
 
 1. B.-W. Lu, C.-W. Yang, R.-Q. Wang, B.-F. Gao, <u>Y.-Z. Zhen</u>, Z.-G. Wang, J.-K. Shi, Z.-Q. Ren, T. A. Hahn, E. Y.-Z. Tan, X.-P. Xie, M.-Y. Zheng, X. Jiang, J. Zhang, F. Xu, Q. Zhang, X.-H. Bao, and J.-W. Pan, Device-independent quantum key distribution over 100 km with single atoms, [**Science** 391, 592 (2026)](https://www.science.org/doi/10.1126/science.adj6064).
@@ -31,13 +32,13 @@ title: "Publications"
 
 1. Wen-Zhao Liu*, Yu-Zhe *, <u>Yi-Zheng Zhen</u>, Ming-Han Li, Yang Liu, Jingyun Fan, Feihu Xu, Qiang Zhang, and Jian-Wei Pan, Toward a Photonic Demonstration of Device-Independent Quantum Key Distribution, [**Physical Review Letter** 129, 050502 (2022)](https://link.aps.org/doi/10.1103/PhysRevLett.129.050502).
 
-1. <u>Yi-Zheng Zhen</u>, Dario Egloff, Kavan Modi, and Oscar Dahlsten, Universal Bound on Energy Cost of Bit Reset in Finite Time, [**Physical Review Letter** 127, 190602 (2021)](https://link.aps.org/doi/10.1103/PhysRevLett.127.190602).
+1. <u>Yi-Zheng Zhen</u>, Dario Egloff, Kavan Modi, and Oscar Dahlsten, Universal Bound on Energy Cost of Bit Reset in Finite Time, [**Physical Review Letter** 127, 190602 (2021)](https://link.aps.org/doi/10.1103/PhysRevLetts.127.190602).
 
 1. <u>Yi-Zheng Zhen*</u>, Yingqiu Mao*, Kai Chen, Francesco Buscemi, and Oscar Dahlsten, Unified approach to witness non-entanglement-breaking quantum channels, [**Physical Review A** 101, 062301 (2020)](https://link.aps.org/doi/10.1103/PhysRevA.101.062301).
 
 1. Shuai Zhao, Pei Zeng, Wen-Fei Cao, Xin-Yu Xu, <u>Yi-Zheng Zhen</u>, Xiongfeng Ma, Li Li, Nai-Le Liu, and Kai Chen, Phase-Matching Quantum Cryptographic Conferencing, [**Physical Review A**pplied 14, 024010 (2020)](https://link.aps.org/doi/10.1103/PhysRevApplied.14.024010).
 
-1. Yingqiu Mao*, <u>Yi-Zheng Zhen*</u>, Hui Liu, Mi Zou, Qi-Jie Tang, Si-Jie Zhang, Jian Wang, Hao Liang, Weijun Zhang, Hao Li, Lixing You, Zhen Wang, Li Li, Nai-Le Liu, Kai Chen, Teng-Yun Chen, and Jian-Wei Pan, Experimentally Verified Approach to Nonentanglement-Breaking Channel Certification, [**Physical Review Letter** 124, 010502 (2020)](https://link.aps.org/doi/10.1103/PhysRevLett.124.010502).
+1. Yingqiu Mao*, <u>Yi-Zheng Zhen*</u>, Hui Liu, Mi Zou, Qi-Jie Tang, Si-Jie Zhang, Jian Wang, Hao Liang, Weijun Zhang, Hao Li, Lixing You, Zhen Wang, Li Li, Nai-Le Liu, Kai Chen, Teng-Yun Chen, and Jian-Wei Pan, Experimentally Verified Approach to Nonentanglement-Breaking Channel Certification, [**Physical Review Letter** 124, 010502 (2020)](https://link.aps.org/doi/10.1103/PhysRevLetts.124.010502).
 
 1. Wen-Fei Cao, <u>Yi-Zheng Zhen</u>, Yu-Lin Zheng, Shuai Zhao, Feihu Xu, Li Li, Zeng-Bing Chen, Nai-Le Liu, and Kai Chen, Open-Destination Measurement-Device-Independent Quantum Key Distribution Network, [**Entropy** 22, 10 (2020)](https://www.mdpi.com/1099-4300/22/10/1083).
 
