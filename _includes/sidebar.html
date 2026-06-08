@@ -27,16 +27,10 @@
           <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
         </a>
       </li>
-      <!-- Posts -->
-      <li class="nav-item{% if page.url == '/posts/' | relative_url %}{{ " active" }}{% endif %}">
-        <a href="{{ '/posts/' | relative_url }}" class="nav-link">
-          <i class="fa-fw fas fa-meh"></i>
-          <span>{{ site.data.locales[include.lang].tabs.posts | upcase }}</span>
-        </a>
-      </li>
       <!-- the real tabs -->
       {% for tab in site.tabs %}
       {% if tab.url == '/' | relative_url %}{% continue %}{% endif %}
+      {% unless tab.icon %}{% continue %}{% endunless %}
         <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
           <a href="{{ tab.url | relative_url }}" class="nav-link">
             <i class="fa-fw {{ tab.icon }}"></i>
