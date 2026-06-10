@@ -1,0 +1,223 @@
+---
+---
+
+/* ========================================
+   Custom Styles for YizhengZhen.github.io
+   Theme: Chirpy
+   ======================================== */
+
+/* ========== SIDEBAR ========== */
+
+/* Center avatar */
+#sidebar #avatar {
+  display: block;
+  margin: 0 auto;
+}
+
+#sidebar #avatar img {
+  display: block;
+  margin: 0 auto;
+}
+
+/* Sidebar bottom - center icons and remove the dot */
+#sidebar .sidebar-bottom {
+  justify-content: center !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  gap: 0.4rem;
+}
+
+#sidebar .icon-border {
+  display: none !important;
+}
+
+/* ---------- Topbar: push mode-toggle + search to the far right ---------- */
+#topbar {
+  justify-content: flex-start !important;
+}
+
+#topbar .mode-toggle {
+  margin-left: auto;
+}
+
+/* ========== RESEARCH FOCUS CARDS ========== */
+
+/* Redesign: use subtle bordered panels with icon on top */
+#index-page .research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.25rem;
+}
+
+#index-page .research-card {
+  background: var(--card-bg);
+  border: 1px solid var(--main-border-color);
+  border-radius: 10px;
+  padding: 0.9rem 1.1rem 0.9rem;
+  transition: box-shadow 0.25s ease, transform 0.25s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+#index-page .research-card:hover {
+  box-shadow: var(--card-shadow);
+  transform: translateY(-3px);
+}
+
+/* Icon + title on the same line */
+#index-page .research-card .card-title-row {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin-bottom: 0.45rem;
+}
+
+#index-page .research-card .card-icon {
+  font-size: 1.1rem;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+#index-page .research-card h5 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin: 0 !important;
+  padding-top: 0 !important;
+  color: var(--heading-color, var(--text-color));
+}
+
+/* Override Chirpy's %anchor pseudo-element on h5 inside cards */
+#index-page .research-card h5::before,
+#index-page .research-card h5 .anchor {
+  display: none !important;
+}
+
+#index-page .research-card ul {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+#index-page .research-card ul li {
+  font-size: 0.88rem;
+  color: var(--text-muted-color);
+  line-height: 1.6;
+  padding: 0.1rem 0;
+  position: relative;
+  padding-left: 1rem;
+}
+
+#index-page .research-card ul li::before {
+  content: "▸";
+  position: absolute;
+  left: 0;
+  color: var(--text-muted-color);
+  opacity: 0.5;
+}
+
+/* ========== RECENT UPDATES ========== */
+
+#index-page .recent-updates {
+  list-style: none;
+  padding-left: 0;
+}
+
+#index-page .recent-updates li {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--main-border-color);
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+
+#index-page .recent-updates li:last-child {
+  border-bottom: none;
+}
+
+#index-page .recent-updates .update-year {
+  font-size: 0.8rem;
+  font-weight: 600;
+  min-width: 2.8rem;
+  flex-shrink: 0;
+  color: var(--text-muted-color);
+  letter-spacing: 0.02em;
+}
+
+#index-page .recent-updates .update-badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.1rem 0.45rem;
+  border-radius: 3px;
+  margin-right: 0.25rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+#index-page .recent-updates .update-badge.science {
+  background: #d9534f;
+  color: #fff;
+}
+
+#index-page .recent-updates .update-badge.nature {
+  background: #5bc0de;
+  color: #fff;
+}
+
+#index-page .recent-updates .update-badge.preprint {
+  background: #f0ad4e;
+  color: #fff;
+}
+
+#index-page .recent-updates .update-badge.prl,
+#index-page .recent-updates .update-badge.pra,
+#index-page .recent-updates .update-badge.prx,
+#index-page .recent-updates .update-badge.journal {
+  background: #6c757d;
+  color: #fff;
+}
+
+#index-page .recent-updates .update-badge.talk {
+  background: #5cb85c;
+  color: #fff;
+}
+
+#index-page .recent-updates .update-badge.award {
+  background: #9b59b6;
+  color: #fff;
+}
+
+#index-page .recent-updates .update-badge.position {
+  background: #1a2a3a;
+  color: #fff;
+}
+
+#index-page .recent-updates .update-badge.news {
+  background: #868e96;
+  color: #fff;
+}
+
+#index-page .recent-updates .update-link {
+  font-size: 0.8rem;
+  white-space: nowrap;
+  margin-left: auto;
+  flex-shrink: 0;
+}
+
+/* ========== LINKS ========== */
+
+#index-page .links-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+#index-page .links-list li {
+  margin-bottom: 0.4rem;
+  font-size: 1rem;
+}
+
+#index-page .links-list li a {
+  font-weight: 500;
+}

@@ -59,6 +59,12 @@
       <i class="fas fa-search fa-fw"></i>
     </button>
 
+    {% unless site.theme_mode %}
+    <button type="button" class="mode-toggle btn btn-link" aria-label="Switch Mode">
+      <i class="fas fa-adjust"></i>
+    </button>
+    {% endunless %}
+
     <search class="align-items-center ms-3 ms-lg-0">
       <i class="fas fa-search fa-fw"></i>
       <input

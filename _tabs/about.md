@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-user
-order: 1
+order: 7
 title: "About"
 ---
 
@@ -9,6 +9,8 @@ title: "About"
 
 Research Associate · University of Science and Technology of China
 Email: zhenyizheng # ustc.edu.cn (# → @)
+
+**Research Interests:** Quantum information theory, quantum cryptography, device-independent quantum key distribution, quantum steering and nonlocality, quantum thermodynamics
 
 ---
 
@@ -40,13 +42,13 @@ Email: zhenyizheng # ustc.edu.cn (# → @)
 
 *This section outlines the research themes pursued across different positions. For detailed topics, see the [Research](/research) page.*
 
-- **2022–Now (USTC, with Prof. Barry C. Sanders):** *[TBD — brief description of current research focus]*
-- **2020–2022 (USTC, with Prof. Barry C. Sanders):** *[TBD]*
+- **2022–Now (USTC, with Prof. Barry C. Sanders):** Device-independent quantum information processing, quantum key distribution based on nonlocal games, entanglement verification.
+- **2020–2022 (USTC, with Prof. Barry C. Sanders):** Quantum cryptography, device-independent protocols, quantum steering certification.
 - **2018–2020 (SUSTech, with A/Prof. Oscar Dahlsten):** Information thermodynamics, finite-time Landauer erasure, work bounds.
-- **2017–2018 (USTC, with Prof. Wen-Ge Wang):** *[TBD]*
+- **2017–2018 (USTC, with Prof. Wen-Ge Wang):** Quantum statistical properties of complex systems.
 
 ---
 
 ## CV
 
-*[TBD — link to downloadable PDF CV]*
+*[PDF CV coming soon]*

@@ -1,27 +1,36 @@
-# ✅ 已完成 / ❌ 待完成
+# ✅ Beautification — Complete!
 
-> 最后更新：2026-06-05
+## Changes Made
 
-## 已修改完成
-- [x] `/project1` PWA 冲突修复（`_config.yml`）
-- [x] 职位信息统一（resume.md 已包含）
-- [x] 研究方向更新（卡片形式展示 4 大方向）
-- [x] 新论文收录（3篇：Science 2026, Nature 2026, arXiv 2025）
-- [x] Resume Summary 填写
-- [x] Resume Talks 板块开启
-- [x] Sidebar 新增 arXiv / Google Scholar / ORCID 链接
-- [x] 首页改版：极简引导型，去 CV 化
-- [x] 新增 Research Highlights、Collaborators、Projects 板块
-- [x] 新增 Explore 快速导航卡片
+### 1. `assets/css/custom.css` — **NEW**
+- Google Fonts: Inter (body) + Playfair Display (headings) + Noto Sans SC (Chinese)
+- "Quantum Midnight" color palette: navy #1a2a3a + gold accent #c8956c
+- Sidebar gradient background, rounded avatar with hover effect
+- Animated nav link indicators (gold underline appears on hover)
+- Section headings with gold accent underline
+- Styled cards with hover elevation
+- Polished tables with navy headers and hover rows
+- Blockquote styling with gold left border
+- Code block font and border
+- Dark mode overrides
 
-## ❌ 待你后续补充
+### 2. `_includes/head.html` — **MODIFIED**
+- Added Google Fonts preconnect and stylesheet link
+- Added custom.css stylesheet link
 
-### index.html
-- [ ] **Research Highlights** → 填 2-3 条有趣的研究结果（不是那种了不起的，就是有意思的发现）
-- [ ] **Collaborators** → 填写外部合作者名单（同事和非同事）
-- [ ] **Projects** → 填写 GitHub 上的项目链接
+### 3. `_config.yml` — **MODIFIED**
+- Tagline: removed messy `<br/>` tags, now clean inline text
+- Avatar: `img/profile-maruto.png` → `img/profile-zyz.jpg`
+- Social preview image: set to `img/profile-zyz.jpg`
 
-### _tabs/resume.md
-- [ ] **Selected Works** → 填写 3-5 篇代表作
-- [ ] **Awards & Honors** → 如有奖项，取消注释并填写
-- [ ] **Talks & Presentations** → 填写邀请报告/演讲列表
+### 4. `_data/contact.yml` — **MODIFIED**
+- Enabled LinkedIn contact link
+
+### 5. `_tabs/about.md` — **MODIFIED**
+- Added Research Interests summary
+- Filled TBD research descriptions (2020-2022, 2022-Now, 2017-2018)
+- Updated CV placeholder text
+
+### Remaining:
+- [ ] Fill TBDs in `_tabs/research.md`, `_tabs/works.md`, `_tabs/activities.md`
+- [ ] Content is yours to complete
