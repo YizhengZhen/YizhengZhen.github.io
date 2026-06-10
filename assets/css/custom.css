@@ -54,7 +54,9 @@
   border: 1px solid var(--main-border-color);
   border-radius: 10px;
   padding: 0.9rem 1.1rem 0.9rem;
-  transition: box-shadow 0.25s ease, transform 0.25s ease;
+  transition:
+    box-shadow 0.25s ease,
+    transform 0.25s ease;
   display: flex;
   flex-direction: column;
 }
@@ -101,6 +103,7 @@
 #index-page .research-card ul li {
   font-size: 0.88rem;
   color: var(--text-muted-color);
+  opacity: 0.65;
   line-height: 1.6;
   padding: 0.1rem 0;
   position: relative;
@@ -108,7 +111,7 @@
 }
 
 #index-page .research-card ul li::before {
-  content: "▸";
+  content: '▸';
   position: absolute;
   left: 0;
   color: var(--text-muted-color);
@@ -219,5 +222,66 @@
 }
 
 #index-page .links-list li a {
+  font-weight: 500;
+}
+
+/* ========================================
+   TYPOGRAPHY & READABILITY
+   ======================================== */
+
+/* ---------- Global font size & line-height ---------- */
+body {
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+/* Target main content area explicitly (Chirpy overrides body font in its SCSS) */
+#main-content,
+#main-content p,
+#main-content li,
+#main-content td,
+#main-content .content {
+  font-size: 1.05rem;
+  line-height: 1.78;
+}
+
+/* ---------- Headings: slightly bolder ---------- */
+h2 { font-weight: 650; }
+h3 { font-weight: 600; }
+
+/* ---------- Sidebar: name & nav items ---------- */
+#sidebar .site-title a {
+  font-size: 1.3rem !important;
+  font-weight: 700 !important;
+}
+
+#sidebar .nav-link {
+  font-size: 1rem !important;
+  font-weight: 500;
+}
+
+/* ---------- Dark mode: improve contrast ---------- */
+html[data-mode='dark'] {
+  --text-color: #c8c9ca;
+  --text-muted-color: #a0a2a5;
+  --heading-color: #dde0e4;
+}
+
+/* Dark mode links: slightly brighter */
+html[data-mode='dark'] a {
+  color: #5ea8d8;
+}
+
+html[data-mode='dark'] a:hover {
+  color: #7dbde8;
+}
+
+/* ---------- Light mode: slightly deeper muted text ---------- */
+html:not([data-mode='dark']) {
+  --text-muted-color: #5a6270;
+}
+
+/* Links in light mode: add weight for readability */
+html:not([data-mode='dark']) a {
   font-weight: 500;
 }
