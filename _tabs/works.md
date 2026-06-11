@@ -7,27 +7,55 @@ title: "Works"
 
 ## Selected Works
 
-*A curated list of representative results across my research areas.*
+<details>
+<summary>🔥 Device-Independent Quantum Key Distribution Based on the Mermin-Peres Magic Square Game (2023)</summary>
 
-| # | Work | Venue | Year |
-|---|------|-------|------|
-| 1 | Device-independent quantum key distribution over 100 km with single atoms | *Science* | 2026 |
-| 2 | Long-lived remote ion–ion entanglement for scalable quantum repeaters | *Nature* | 2026 |
-| 3 | Device-independent quantum key distribution based on the Mermin-Peres magic square game | *Phys. Rev. Lett.* | 2023 |
-| 4 | Universal bound on energy cost of bit reset in finite time | *Phys. Rev. Lett.* | 2021 |
-| 5 | Toward a photonic demonstration of device-independent quantum key distribution | *Phys. Rev. Lett.* | 2022 |
+**Venue:** _Phys. Rev. Lett._  
+[→ Read Paper](https://link.aps.org/doi/10.1103/PhysRevLett.131.080801)
+</details>
+
+<details>
+<summary>🔥 General Limit to Thermodynamic Annealing Performance (2023)</summary>
+
+**Venue:** _Phys. Rev. E_  
+[→ Read Paper](https://link.aps.org/doi/10.1103/PhysRevE.108.L052105)
+</details>
+
+<details>
+<summary>🔥 Universal Bound on Energy Cost of Bit Reset in Finite Time (2021)</summary>
+
+**Venue:** _Phys. Rev. Lett._  
+[→ Read Paper](https://link.aps.org/doi/10.1103/PhysRevLett.127.190602)
+</details>
+
+<details>
+<summary>⚛️ Nonlocal games and optimal steering at the boundary of the quantum set (2016)</summary>
+
+**Venue:** _Phys. Rev. A_  
+[→ Read Paper](https://link.aps.org/doi/10.1103/PhysRevA.94.022116)
+</details>
 
 ---
 
-## Recent Publications
+## Recent Papers
 
-*Most recent papers reflecting current research directions.*
+1. <span class="paper-label label-theory">Theory</span> **Zhou et al.**, Local unitary equivalence of arbitrary-dimensional multipartite quantum states. [Phys. Rev. A **109**, 022427 (2024)](https://link.aps.org/doi/10.1103/PhysRevA.109.022427).
+   - Invariants for local unitary equivalence for multipartite quantum states.
 
-1. **Genuine Tripartite Strong Coupling in a Superconducting-Spin Hybrid Quantum System** (2025) — Strong-coupling physics in hybrid quantum systems combining superconducting qubits and spin ensembles. [arXiv:2512.13129](https://arxiv.org/abs/2512.13129)
+2. <span class="paper-label label-theory">Theory</span> **Xu et al.**, Measurement-device-independent verification of quantum states. [Phys. Rev. A **109**, 052607 (2024)](https://link.aps.org/doi/10.1103/PhysRevA.109.052607).
+   - Quantum state verification protocol in the measurement-device-independent setting, which is robust against measurement imperfections.
 
-2. **Local unitary equivalence of arbitrary-dimensional multipartite quantum states** (2024) — Characterizing entanglement structure through local unitary transformations. *Phys. Rev. A* 109, 022427
+3. <span class="paper-label label-theory">Theory</span> **Zhen et al.**, Device-Independent Quantum Key Distribution Based on the Mermin-Peres Magic Square Game. [Phys. Rev. Lett. **131**, 080801 (2023)](https://link.aps.org/doi/10.1103/PhysRevLett.131.080801).
+   - Device-independent quantum key distribution protocol based on a two-player Mermin-Peres magic square game, revealing the advantage of "pseudotelepathy" nonlocal game in quantum cryptography.
 
-3. **Bound on annealing performance from stochastic thermodynamics, with application to simulated annealing** (2023) — Fundamental thermodynamic constraints on optimization algorithms. *Phys. Rev. E* 108, 054119
+4. <span class="paper-label label-theory">Theory</span> <span class="paper-label label-collab">Collab</span> **Liu et al.**, Long-lived Remote Ion-ion Entanglement for Scalable Quantum Repeaters. [Nature **652**, 51 (2026)](https://www.nature.com/articles/s41586-026-10177-4).
+   - Experimental realization of long-lived entanglement in ion-based quantum links.
+
+5. <span class="paper-label label-theory">Theory</span> <span class="paper-label label-collab">Collab</span> **Lu et al.**, Device-Independent Quantum Key Distribution over 100 km with Single Atoms. [Science **391**, 592 (2026)](https://www.science.org/doi/10.1126/science.aec6243).
+   - Experimental demonstration of long-distant entanglement distribution between single atoms, which support device-independent quantum communication.
+
+6. <span class="paper-label label-exp">Exp</span> <span class="paper-label label-collab">Collab</span> **Mao et al.**, Strong Coupling in a Three-Mode Superconducting-Spin Hybrid Quantum System. [arXiv:2512.13129 (2025)](https://arxiv.org/abs/2512.13129).
+   - Experimental observation of strong-coupling hybrid quantum systems combining superconducting resonator, transmon and NV$^-$-center spin ensembles.
 
 → **[Full Publication List](/publications)**
 
@@ -35,42 +63,16 @@ title: "Works"
 
 ## Recent Talks
 
-*Selected invited presentations and conference contributions.*
-
-1. Recent advances in device-independent quantum cryptography — invited seminar at quantum computing centers (2024–2025)
-2. Information thermodynamics and quantum information processing — workshop on quantum information theory (2023)
-3. Quantum steering and nonlocality in quantum foundations — international quantum physics conference (2022)
+1. Entropy Accumulation Theorem: From Bell inequality to quantum boundaries — Communication Technology and Artificial Intelligence Academic Forum (Nanjing, 2026)
+2. Quantum Probabilities, Nonlocality, and their Applications in Quantum Cryptography — Weekly Seminar at Wilczek Quantum Center (Shanghai, 2025)
+3. Towards Realization of Hybrid Quantum System with Superconducting Circuits and Diamond Spin Ensemble — Joint talk with Dr. Yingqiu Mao, at OIST (Okinawa, 2025)
 
 → **[Full Talk List](#full-talks)**
 
 ---
 
-## Full Publications
-
-See the complete list: **[Publications](/publications)**
-
 External databases:
-- [arXiv](https://arxiv.org/a/zhen_y_1.html) — 27+ preprints and published papers
-- [ORCID](https://orcid.org/0000-0002-7125-6922) — Complete academic profile
-- [Google Scholar](https://scholar.google.com/citations?user=7kiloFYAAAAJ) — Citation metrics and h-index
 
----
-
-## Full Talks
-
-*Contributed and invited presentations at major conferences and institutions.*
-
-### 2024–2025
-- Superconducting-spin hybrids and strong-coupling phenomena (invited seminar)
-- Device-independent quantum information in the era of quantum networks (conference presentation)
-
-### 2022–2023
-- Quantum steering, nonlocality and their role in quantum cryptography (multiple invited talks)
-- Information thermodynamics: from fundamental bounds to practical protocols (workshop lecture)
-- Experimental verification of quantum entanglement in quantum networks (conference)
-
-### 2020–2021
-- Quantum key distribution and device-independent protocols (postdoctoral seminar series)
-- Measurement-device-independent quantum cryptography (departmental colloquium)
-
-*For collaboration inquiries or detailed talk information, please contact me directly.*
+- [arXiv](https://arxiv.org/a/zhen_y_1.html)
+- [ORCID](https://orcid.org/0000-0002-7125-6922)
+- [Google Scholar](https://scholar.google.com/citations?user=7kiloFYAAAAJ)
