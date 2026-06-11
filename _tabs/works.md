@@ -71,6 +71,16 @@ title: "Works"
 
 ---
 
+## Full Talks
+
+<a id="full-talks"></a>
+
+1. Entropy Accumulation Theorem: From Bell inequality to quantum boundaries — Communication Technology and Artificial Intelligence Academic Forum (Nanjing, 2026)
+2. Quantum Probabilities, Nonlocality, and their Applications in Quantum Cryptography — Weekly Seminar at Wilczek Quantum Center (Shanghai, 2025)
+3. Towards Realization of Hybrid Quantum System with Superconducting Circuits and Diamond Spin Ensemble — Joint talk with Dr. Yingqiu Mao, at OIST (Okinawa, 2025)
+
+---
+
 External databases:
 
 - [arXiv](https://arxiv.org/a/zhen_y_1.html)
