@@ -72,8 +72,7 @@ title: "Works"
 ---
 
 ## Full Talks
-
-<a id="full-talks"></a>
+{: #full-talks}
 
 1. Entropy Accumulation Theorem: From Bell inequality to quantum boundaries — Communication Technology and Artificial Intelligence Academic Forum (Nanjing, 2026)
 2. Quantum Probabilities, Nonlocality, and their Applications in Quantum Cryptography — Weekly Seminar at Wilczek Quantum Center (Shanghai, 2025)

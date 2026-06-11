@@ -55,7 +55,7 @@ jobs:
           bundle exec htmlproofer _site \
             \-\-disable-external \
             \-\-no-check-external-hash \
-            \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/,/fonts\.googleapis\.com/,/fonts\.gstatic\.com/,/scholar\.google\.com/,/link\.aps\.org/,/science\.org/,/nature\.com/,/yizhengzhen\.github\.io/,/arxiv\.org/,/orcid\.org/" \
+            \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/,/fonts\.googleapis\.com/,/fonts\.gstatic\.com/,/scholar\.google\.com/,/link\.aps\.org/,/science\.org/,/nature\.com/,/yizhengzhen\.github\.io/,/arxiv\.org/,/orcid\.org/,/\/tags\//" \
             \-\-ignore-status-codes "403,404"
 
       - name: Upload site artifact
