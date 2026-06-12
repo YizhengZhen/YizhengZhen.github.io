@@ -159,13 +159,8 @@
   letter-spacing: 0.03em;
 }
 
-#index-page .recent-updates .update-badge.science {
-  background: #d9534f;
-  color: #fff;
-}
-
-#index-page .recent-updates .update-badge.nature {
-  background: #5bc0de;
+#index-page .recent-updates .update-badge.paper {
+  background: #3273dc;
   color: #fff;
 }
 
@@ -174,11 +169,8 @@
   color: #fff;
 }
 
-#index-page .recent-updates .update-badge.prl,
-#index-page .recent-updates .update-badge.pra,
-#index-page .recent-updates .update-badge.prx,
-#index-page .recent-updates .update-badge.journal {
-  background: #6c757d;
+#index-page .recent-updates .update-badge.repos {
+  background: #20b2aa;
   color: #fff;
 }
 
