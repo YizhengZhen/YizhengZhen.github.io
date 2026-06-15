@@ -201,6 +201,288 @@
   flex-shrink: 0;
 }
 
+.paper-card-list {
+  display: grid;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+.paper-card {
+  background: var(--card-bg);
+  border: 1px solid var(--main-border-color);
+  border-radius: 18px;
+  padding: 1.15rem 1.2rem;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.04);
+}
+
+.paper-card-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.85rem;
+}
+
+.paper-card-header > div:first-child {
+  display: flex;
+  gap: 0.55rem;
+  align-items: center;
+}
+
+.paper-card-title {
+  font-weight: 700;
+  line-height: 1.45;
+  min-width: 0;
+}
+
+.paper-card-details summary {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 0.45rem 0.65rem;
+  align-items: start;
+  font-weight: 700;
+  cursor: pointer;
+  list-style: none;
+}
+
+.paper-card-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.paper-card-summary-top,
+.paper-card-summary-title-row {
+  grid-column: 1 / -1;
+}
+
+.paper-card-summary-top {
+  display: flex;
+  gap: 0.55rem;
+  align-items: center;
+  margin-bottom: 0.55rem;
+}
+
+.paper-card-summary-title-row {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 0.65rem;
+  align-items: center;
+}
+
+.paper-card-summary-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.4rem;
+  height: 1.4rem;
+  font-size: 1rem;
+  flex-shrink: 0;
+}
+
+.paper-card-summary-icon,
+.work-card-icon {
+  align-self: start;
+}
+
+.paper-card-summary-details-trigger {
+  grid-column: 2;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--link-color);
+  font-weight: 600;
+}
+
+.paper-card-summary-action {
+  display: contents;
+}
+
+.paper-card-summary-triangle {
+  display: inline-flex;
+  width: 1.4rem;
+  height: 1.4rem;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.95rem;
+  transform: rotate(0deg);
+  transition: transform 0.2s ease;
+  color: var(--link-color);
+}
+
+.paper-card-summary-title,
+.work-card-title strong {
+  display: block;
+  white-space: normal;
+  word-break: break-word;
+}
+
+.paper-card-details[open] .paper-card-summary-triangle {
+  transform: rotate(90deg);
+}
+
+.work-card-list,
+.talk-card-list {
+  display: grid;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+.work-card,
+.talk-card,
+.paper-card {
+  background: var(--card-bg);
+  border: 1px solid var(--main-border-color);
+  border-radius: 18px;
+  padding: 1.15rem 1.2rem;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.04);
+}
+
+.work-card-header {
+  margin-bottom: 0.75rem;
+}
+
+.work-card-title,
+.paper-card-summary-title {
+  font-weight: 700;
+  line-height: 1.45;
+  min-width: 0;
+  word-break: break-word;
+}
+
+.work-card-title {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  gap: 0.8rem;
+  align-items: center;
+}
+
+.work-card-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.4rem;
+  height: 1.4rem;
+  font-size: 1rem;
+  flex-shrink: 0;
+}
+
+.work-card-title strong {
+  min-width: 0;
+}
+
+.work-card-link {
+  font-weight: 600;
+  color: var(--link-color);
+  white-space: nowrap;
+}
+
+.work-card-body,
+.paper-card-body {
+  margin-top: 0.5rem;
+}
+
+.paper-card-summary-title {
+  display: inline-block;
+  min-width: 0;
+}
+
+.paper-card-summary-link {
+  white-space: nowrap;
+  font-weight: 600;
+  color: var(--link-color);
+}
+
+.work-card-meta {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.55rem 0.85rem;
+  align-items: start;
+}
+
+.work-card-meta dt {
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+  white-space: nowrap;
+}
+
+.work-card-meta dd {
+  margin: 0;
+  padding: 0;
+}
+
+.work-card-body p,
+.paper-card-body p {
+  margin: 0.75rem 0 0;
+  line-height: 1.65;
+}
+
+.paper-card-summary-tags {
+  display: flex;
+  gap: 0.55rem;
+  align-items: center;
+}
+
+.publication-gap {
+  height: 1.5rem;
+}
+
+.talk-card {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.talk-card-index {
+  min-width: 2rem;
+  min-height: 2rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  background: var(--main-border-color);
+  color: var(--text-color);
+  font-weight: 700;
+}
+
+.talk-card-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.talk-card-title {
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.talk-card-description {
+  color: var(--text-muted-color);
+}
+
+.talk-card-links,
+.talk-card-links a {
+  color: var(--link-color);
+}
+
+/* ========== LINKS ========== */
+
+.paper-card-details ul {
+  margin: 0.85rem 0 0 0;
+  padding-left: 1.25rem;
+}
+
+.paper-card-details li {
+  margin-bottom: 0.55rem;
+  line-height: 1.7;
+}
+
+.paper-card-details a {
+  color: var(--link-color);
+}
+
 /* ========== LINKS ========== */
 
 #index-page .links-list {
@@ -238,8 +520,12 @@ body {
 }
 
 /* ---------- Headings: slightly bolder ---------- */
-h2 { font-weight: 650; }
-h3 { font-weight: 600; }
+h2 {
+  font-weight: 650;
+}
+h3 {
+  font-weight: 600;
+}
 
 /* ---------- Sidebar: name & nav items ---------- */
 #sidebar .site-title a {
