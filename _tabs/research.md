@@ -7,13 +7,11 @@ title: "Research"
 
 ## Main Research Topics
 
-*Each topic below describes an active line of inquiry in my group, spanning quantum information theory, cryptography, and quantum control.*
-
 ---
 
 ### Topic 1: Information Thermodynamics
 
-- **Background & Motivation:** How much energy does information processing cost? The second law of thermodynamics sets fundamental limits on all computation and information erasure. My work focuses on finite-time thermodynamic bounds—understanding the trade-off between speed and energy efficiency in practical quantum systems.
+- **Background & Motivation:** How much energy does information processing cost? The second law of thermodynamics sets fundamental limits on all computation and information erasure. Our work focuses on finite-time thermodynamic bounds—understanding the trade-off between speed and energy efficiency in practical quantum systems.
 
 - **What we do:** 
   - Derive universal thermodynamic bounds on work cost for bit reset and information erasure in finite time
@@ -79,38 +77,8 @@ title: "Research"
 - **Goal:** Realize scalable quantum repeaters and hybrid quantum networks combining different physical platforms.
 
 - **Key Results:**
-  - Genuine tripartite strong coupling in superconductor-spin systems (arXiv:2512.13129, 2025)
+  - Strong coupling in a three-mode superconducting-spin hybrid quantum system (*Phys. Rev. Research*, 2026)
   - Long-lived remote ion-ion entanglement for quantum repeaters (*Nature*, 2026)
-
----
-
-## Collaborative Research Topics
-
-*Research conducted in close collaboration with external groups.*
-
----
-
-### Collaboration 1: Quantum Steering Certification with Experimentalists
-
-- **Collaborators:** Prof. Kai Chen (USTC), experimental quantum optics groups at USTC and Jian-Wei Pan's team
-- **Focus area:** Translating theoretical steering criteria into practical experimental certification schemes; photonic implementation of steering-based quantum cryptography
-- **Publications:** Multiple experimental validation papers demonstrating steering in optical quantum systems (2019–2022)
-
----
-
-### Collaboration 2: Device-Independent QKD Implementation
-
-- **Collaborators:** Prof. Barry C. Sanders (USTC), international DI-QKD teams (trapped ions, photonics)
-- **Focus area:** Experimental realization of DI-QKD over practical distances; bridging theory and implementation in 100+ km quantum networks
-- **Publications:** Science 2026 (single-atom DI-QKD), recent *Nature* work on quantum repeaters
-
----
-
-### Collaboration 3: Quantum Thermodynamics & Information Processing
-
-- **Collaborators:** Dr. Oscar Dahlsten (SUSTech), quantum information theorists
-- **Focus area:** Fundamental thermodynamic bounds on quantum computation; finite-time protocols balancing speed and energy cost
-- **Publications:** *Phys. Rev. Lett.* and *Phys. Rev. E* papers on Landauer erasure and annealing performance bounds
 
 ---
 

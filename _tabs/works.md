@@ -63,6 +63,33 @@ title: "Works"
           </div>
         </div>
         <div class="paper-card-summary-title-row">
+          <span class="paper-card-summary-icon">➿</span>
+          <span class="paper-card-summary-title">Mao <em>et al.</em>, Strong Coupling in a Three-Mode Superconducting-Spin Hybrid Quantum System (2026)</span>
+          <span class="paper-card-summary-action"><span class="paper-card-summary-triangle">▶</span> Details</span>
+        </div>
+      </summary>
+      <div class="paper-card-body">
+        <dl class="work-card-meta">
+          <dt>Authors:</dt>
+          <dd>Y. Mao, H.-Y. Ren, Z.-Y. Liu, <u>Y.-Z. Zhen</u>, T. Rong, T. Jiang, Z. Chen, Z.-H. Yuan, W.-H. Qin, X. Zhang, X. Liu, M. Gong, K. Nemoto, W. J. Munro, and J. Majer</dd>
+          <dt>Venue:</dt>
+          <dd><em>Phys. Rev. Research</em> <strong>8</strong>, 023343 (2026) <a href="https://journals.aps.org/prresearch/abstract/10.1103/kydk-qcjn">→ Read Paper</a></dd>
+          <dt>Summary:</dt>
+          <dd>Experimental observation of strong-coupling hybrid quantum systems combining superconducting resonator, transmon and NV⁻-center spin ensembles.</dd>
+        </dl>
+      </div>
+    </details>
+  </div>
+  <div class="paper-card">
+    <details class="paper-card-details">
+      <summary>
+        <div class="paper-card-summary-top">
+          <div class="paper-card-summary-tags">
+            <span class="paper-label label-exp">Exp.</span>
+            <span class="paper-label label-collab">Collab.</span>
+          </div>
+        </div>
+        <div class="paper-card-summary-title-row">
           <span class="paper-card-summary-icon">💫</span>
           <span class="paper-card-summary-title">Liu <em>et al.</em>, Long-lived Remote Ion-ion Entanglement for Scalable Quantum Repeaters.</span>
           <span class="paper-card-summary-action"><span class="paper-card-summary-triangle">▶</span> Details</span>
@@ -103,33 +130,6 @@ title: "Works"
           <dd><em>Science</em> <strong>391</strong>, 592 (2026) <a href="https://www.science.org/doi/10.1126/science.aec6243">→ Read Paper</a></dd>
           <dt>Summary:</dt>
           <dd>Experimental demonstration of long-distance entanglement distribution between single atoms, supporting device-independent quantum communication over 100 km.</dd>
-        </dl>
-      </div>
-    </details>
-  </div>
-  <div class="paper-card">
-    <details class="paper-card-details">
-      <summary>
-        <div class="paper-card-summary-top">
-          <div class="paper-card-summary-tags">
-            <span class="paper-label label-exp">Exp.</span>
-            <span class="paper-label label-collab">Collab.</span>
-          </div>
-        </div>
-        <div class="paper-card-summary-title-row">
-          <span class="paper-card-summary-icon">➿</span>
-          <span class="paper-card-summary-title">Mao <em>et al.</em>, Strong Coupling in a Three-Mode Superconducting-Spin Hybrid Quantum System (2025)</span>
-          <span class="paper-card-summary-action"><span class="paper-card-summary-triangle">▶</span> Details</span>
-        </div>
-      </summary>
-      <div class="paper-card-body">
-        <dl class="work-card-meta">
-          <dt>Authors:</dt>
-          <dd>Y. Mao, H.-Y. Ren, Z.-Y. Liu, <u>Y.-Z. Zhen</u>, T. Rong, T. Jiang, Z. Chen, Z.-H. Yuan, W.-H. Qin, X. Zhang, X. Liu, M. Gong, K. Nemoto, W. J. Munro, and J. Majer</dd>
-          <dt>Venue:</dt>
-          <dd>arXiv:2512.13129 (2025) <a href="https://arxiv.org/abs/2512.13129">→ Read Paper</a></dd>
-          <dt>Summary:</dt>
-          <dd>Experimental observation of strong-coupling hybrid quantum systems combining superconducting resonator, transmon and NV⁻-center spin ensembles.</dd>
         </dl>
       </div>
     </details>
